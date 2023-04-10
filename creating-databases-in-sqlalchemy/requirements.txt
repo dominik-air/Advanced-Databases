@@ -1,0 +1,5 @@
+notebook
+sqlalchemy
+sqlalchemy_utils
+psycopg2-binary
+mysql-connector-python
